@@ -18,3 +18,6 @@ Use case/
 
 web/
 **/web/
+web/*
+web
+/web/
